@@ -14,3 +14,5 @@ ___
 ## Project Structure:
 
 HR_Dataset source: https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
+
+https://www.kaggle.com/datasets/tonypriyanka2913/employee-absenteeism?resource=download
