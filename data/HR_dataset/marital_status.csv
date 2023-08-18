@@ -1,0 +1,6 @@
+,MaritalStatusID,MaritalDesc,Married
+0,0,Single,No
+1,1,Married,Yes
+4,2,Divorced,No
+7,4,Widowed,No
+31,3,Separated,No

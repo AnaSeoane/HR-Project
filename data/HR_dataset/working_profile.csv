@@ -1,0 +1,312 @@
+EmpID,Term,EmploymentStatus,DateofHire,DateofTermination,Salary,Department,Position,SpecialProjectsCount
+10026,No,Active,2011-07-05,,62506,Production       ,Production Technician I,0
+10084,Yes,Voluntarily Terminated,2015-03-30,2016-06-16,104437,IT/IS,Sr. DBA,6
+10196,Yes,Voluntarily Terminated,2011-07-05,2012-09-24,64955,Production       ,Production Technician II,0
+10088,No,Active,2008-01-07,,64991,Production       ,Production Technician I,0
+10069,Yes,Voluntarily Terminated,2011-07-11,2016-09-06,50825,Production       ,Production Technician I,0
+10002,No,Active,2012-01-09,,57568,Production       ,Production Technician I,0
+10194,No,Active,2014-11-10,,95660,Software Engineering,Software Engineer,4
+10062,No,Active,2013-09-30,,59365,Production       ,Production Technician I,0
+10114,No,Active,2009-07-06,,47837,Production       ,Production Technician I,0
+10250,No,Active,2015-01-05,,50178,IT/IS,IT Support,6
+10252,Yes,Voluntarily Terminated,2011-01-10,2017-01-12,54670,Production       ,Production Technician I,0
+10242,Yes,Voluntarily Terminated,2012-04-02,2016-09-19,47211,Production       ,Production Technician I,0
+10012,No,Active,2014-11-10,,92328,IT/IS,Data Analyst,5
+10265,No,Active,2012-02-20,,58709,Production       ,Production Technician I,0
+10066,Yes,Voluntarily Terminated,2012-09-24,2017-04-06,52505,Production       ,Production Technician I,0
+10061,Yes,Terminated for Cause,2011-02-21,2017-08-04,57834,Production       ,Production Technician I,0
+10023,No,Active,2016-07-21,,70131,Production       ,Production Technician II,0
+10055,No,Active,2011-04-04,,59026,Production       ,Production Technician I,0
+10245,Yes,Terminated for Cause,2014-07-07,2015-09-12,110000,IT/IS,Database Administrator,5
+10277,No,Active,2013-07-08,,53250,Production       ,Production Technician I,0
+10046,No,Active,2012-04-02,,51044,Production       ,Production Technician I,0
+10226,No,Active,2013-08-19,,64919,Production       ,Production Technician I,0
+10003,No,Active,2014-07-07,,62910,Production       ,Production Technician I,0
+10294,No,Active,2011-04-04,,66441,Production       ,Production Technician II,0
+10267,Yes,Voluntarily Terminated,2011-01-10,2014-04-04,57815,Production       ,Production Technician II,0
+10199,Yes,Terminated for Cause,2014-02-17,2016-02-19,103613,IT/IS,Enterprise Architect,7
+10081,No,Active,2015-02-16,,106367,Admin Offices,Sr. Accountant,3
+10175,Yes,Voluntarily Terminated,2013-09-30,2014-08-07,74312,Production       ,Production Manager,0
+10177,Yes,Voluntarily Terminated,2012-04-02,2013-06-15,53492,Production       ,Production Technician I,0
+10238,No,Active,2008-10-27,,63000,Admin Offices,Accountant I,6
+10184,No,Active,2014-09-29,,65288,Production       ,Production Technician II,0
+10203,No,Active,2013-11-11,,64375,Production       ,Production Technician I,0
+10188,Yes,Voluntarily Terminated,2011-08-15,2014-08-02,74326,Sales,Area Sales Manager,0
+10107,No,Active,2012-03-05,,63763,Production       ,Production Technician II,0
+10181,No,Active,2011-04-04,,62162,Production       ,Production Technician II,0
+10150,No,Active,2011-08-15,,77692,Software Engineering,Software Engineering Manager,5
+10001,No,Active,2016-01-28,,72640,Production       ,Production Manager,0
+10085,No,Active,2013-11-11,,93396,Software Engineering,Software Engineer,6
+10115,No,Active,2014-03-31,,52846,Production       ,Production Technician I,0
+10082,No,Active,2016-06-30,,100031,IT/IS,Sr. DBA,6
+10040,No,Active,2014-08-18,,71860,Sales,Area Sales Manager,0
+10067,No,Active,2014-09-29,,61656,Production       ,Production Technician I,0
+10108,No,Active,2016-09-06,,110929,IT/IS,BI Director,7
+10210,No,Active,2014-05-12,,54237,Production       ,Production Technician I,0
+10154,No,Active,2013-07-08,,60380,Production       ,Production Technician I,0
+10200,No,Active,2012-05-14,,66808,Sales,Area Sales Manager,0
+10240,Yes,Voluntarily Terminated,2011-06-27,2015-11-15,64786,Production       ,Production Technician I,0
+10168,No,Active,2011-10-03,,64816,Production       ,Production Technician I,0
+10220,No,Active,2012-09-05,,68678,IT/IS,IT Support,6
+10275,Yes,Voluntarily Terminated,2011-05-16,2013-01-07,64066,Production       ,Production Technician II,0
+10269,Yes,Voluntarily Terminated,2010-08-30,2011-09-26,59369,Production       ,Production Technician II,0
+10029,No,Active,2016-07-06,,50373,Production       ,Production Technician I,0
+10261,No,Active,2013-07-08,,63108,Production       ,Production Technician I,0
+10292,Yes,Terminated for Cause,2011-07-11,2016-09-23,59144,Production       ,Production Technician I,0
+10282,No,Active,2010-07-20,,68051,Production       ,Production Manager,0
+10019,No,Active,2009-01-05,,170500,Production       ,Director of Operations,0
+10094,No,Active,2015-01-05,,63381,Production       ,Production Technician I,0
+10193,No,Active,2015-03-30,,83552,IT/IS,Data Analyst,6
+10132,No,Active,2016-07-06,,56149,Production       ,Production Technician I,0
+10083,No,Active,2014-11-10,,92329,IT/IS,Sr. Network Engineer,4
+10099,No,Active,2014-05-05,,65729,Sales,Sales Manager,0
+10212,No,Active,2014-11-10,,85028,IT/IS,Sr. Network Engineer,8
+10056,No,Active,2012-07-02,,57583,Production       ,Production Technician I,0
+10143,No,Active,2011-11-07,,56294,Production       ,Production Technician II,0
+10311,No,Active,2018-07-09,,56991,Production       ,Production Technician I,3
+10070,Yes,Voluntarily Terminated,2011-05-16,2016-06-08,55722,Production       ,Production Technician I,0
+10155,No,Active,2012-01-09,,101199,Software Engineering,Software Engineer,5
+10306,No,Active,2014-09-29,,61568,Sales,Area Sales Manager,0
+10100,Yes,Voluntarily Terminated,2011-04-04,2015-11-04,58275,Production       ,Production Technician II,0
+10310,No,Active,2014-07-07,,53189,Production       ,Production Technician I,0
+10197,No,Active,2017-02-15,,96820,IT/IS,BI Developer,7
+10276,No,Active,2014-05-12,,51259,Production       ,Production Technician I,0
+10304,No,Active,2012-02-20,,59231,Sales,Area Sales Manager,0
+10284,No,Active,2013-01-07,,61584,Production       ,Production Technician I,0
+10207,No,Active,2012-04-02,,46335,Production       ,Production Technician I,0
+10133,No,Active,2015-01-05,,70621,IT/IS,IT Support,6
+10028,No,Active,2014-01-05,,138888,IT/IS,IT Manager - Support,5
+10006,No,Active,2011-01-10,,74241,Sales,Area Sales Manager,0
+10105,No,Active,2014-09-18,,75188,Production       ,Production Manager,0
+10211,No,Active,2010-04-26,,62514,Production       ,Production Technician I,0
+10064,Yes,Voluntarily Terminated,2011-04-04,2017-06-06,60070,Production       ,Production Technician I,0
+10247,No,Active,2014-11-10,,48888,Production       ,Production Technician I,0
+10235,No,Active,2014-03-31,,54285,Production       ,Production Technician I,0
+10299,No,Active,2014-07-07,,56847,Production       ,Production Technician II,0
+10280,Yes,Terminated for Cause,2012-04-02,2018-09-27,60340,Production       ,Production Technician I,0
+10296,Yes,Terminated for Cause,2014-02-17,2018-02-25,59124,Production       ,Production Technician I,0
+10290,Yes,Terminated for Cause,2011-05-02,2013-06-05,99280,Software Engineering,Software Engineer,4
+10263,No,Active,2014-07-07,,71776,Production       ,Production Technician II,0
+10136,No,Active,2014-02-17,,65902,Production       ,Production Technician II,0
+10189,Yes,Voluntarily Terminated,2011-11-07,2016-05-17,57748,Production       ,Production Technician I,0
+10308,No,Active,2015-05-11,,64057,Production       ,Production Technician I,0
+10309,No,Active,2015-03-30,,53366,IT/IS,Network Engineer,6
+10049,No,Active,2012-01-09,,58530,Production       ,Production Technician I,0
+10093,Yes,Voluntarily Terminated,2011-05-16,2013-06-24,72609,Production       ,Production Technician II,0
+10163,Yes,Voluntarily Terminated,2011-04-04,2013-01-09,55965,Production       ,Production Technician II,0
+10305,Yes,Terminated for Cause,2014-09-29,2018-08-19,70187,Sales,Area Sales Manager,0
+10015,No,Active,2011-04-15,,178000,IT/IS,IT Director,5
+10080,No,Active,2009-01-05,,99351,Admin Offices,Sr. Accountant,2
+10258,No,Active,2011-09-06,,67251,Sales,Area Sales Manager,0
+10273,No,Active,2010-05-01,,65707,IT/IS,IT Support,5
+10111,No,Active,2015-03-30,,52249,Production       ,Production Technician I,0
+10257,No,Active,2011-05-16,,53171,Production       ,Production Technician I,0
+10159,No,Active,2015-03-30,,51337,Production       ,Production Technician I,0
+10122,Yes,Voluntarily Terminated,2011-11-07,2016-11-15,51505,Production       ,Production Technician I,0
+10142,Yes,Terminated for Cause,2014-07-07,2015-09-05,59370,Sales,Area Sales Manager,0
+10283,Yes,Voluntarily Terminated,2012-04-02,2015-06-25,54933,Production       ,Production Technician I,0
+10018,No,Active,2014-09-29,,57815,Production       ,Production Technician I,0
+10255,No,Active,2015-02-16,,61555,Sales,Area Sales Manager,0
+10246,Yes,Terminated for Cause,2015-02-16,2015-03-15,114800,IT/IS,Database Administrator,4
+10228,No,Active,2015-03-30,,74679,IT/IS,IT Support,7
+10243,No,Active,2013-11-11,,53018,Production       ,Production Technician I,0
+10031,No,Active,2011-07-11,,59892,Production       ,Production Technician I,0
+10300,Yes,Voluntarily Terminated,2010-04-26,2011-05-30,68898,Production       ,Production Technician II,0
+10101,No,Active,2015-01-05,,61242,IT/IS,IT Support,5
+10237,No,Active,2014-05-12,,66825,Production       ,Production Technician II,0
+10051,No,Active,2012-07-02,,48285,Production       ,Production Technician I,0
+10218,No,Active,2013-09-30,,66149,Production       ,Production Technician II,0
+10256,No,Active,2013-08-19,,49256,Production       ,Production Technician I,0
+10098,No,Active,2015-06-02,,62957,Production       ,Production Manager,0
+10059,Yes,Voluntarily Terminated,2011-02-21,2014-01-11,63813,Production       ,Production Technician I,0
+10234,No,Active,2017-04-20,,99020,IT/IS,BI Developer,5
+10109,Yes,Voluntarily Terminated,2012-03-07,2014-10-31,71707,Sales,Area Sales Manager,0
+10125,No,Active,2011-11-28,,54828,Production       ,Production Technician I,0
+10074,No,Active,2013-11-11,,64246,Production       ,Production Technician II,0
+10097,Yes,Voluntarily Terminated,2012-01-09,2015-12-15,52177,Production       ,Production Technician I,0
+10007,No,Active,2014-05-12,,62065,Production       ,Production Technician I,0
+10129,No,Active,2012-08-13,,46998,Production       ,Production Technician I,0
+10075,Yes,Voluntarily Terminated,2011-01-10,2013-06-18,68099,Production       ,Production Technician II,0
+10167,No,Active,2014-08-18,,70545,Sales,Area Sales Manager,0
+10195,Yes,Voluntarily Terminated,2011-08-15,2012-04-07,63478,Production       ,Production Technician II,0
+10112,No,Active,2015-03-30,,97999,IT/IS,Database Administrator,6
+10272,No,Active,2014-05-05,,180000,Sales,Director of Sales,0
+10182,Yes,Terminated for Cause,2015-02-16,2015-04-15,49920,Admin Offices,Administrative Assistant,4
+10248,No,Active,2012-02-20,,55425,Production       ,Production Technician I,0
+10201,No,Active,2016-06-06,,69340,Production       ,Production Technician II,0
+10214,No,Active,2015-06-05,,64995,Production       ,Production Technician II,0
+10160,Yes,Voluntarily Terminated,2011-02-21,2013-04-01,68182,Production       ,Production Technician II,0
+10289,Yes,Voluntarily Terminated,2011-02-21,2012-09-24,83082,Production       ,Production Manager,0
+10139,No,Active,2013-08-19,,51908,Production       ,Production Technician I,0
+10227,No,Active,2012-11-05,,61242,Production       ,Production Technician I,0
+10236,No,Active,2013-09-30,,45069,Production       ,Production Technician I,0
+10009,No,Active,2011-07-05,,60724,Production       ,Production Technician II,0
+10060,No,Active,2014-01-06,,60436,Production       ,Production Technician I,0
+10034,Yes,Voluntarily Terminated,2011-11-07,2018-04-29,46837,Production       ,Production Technician I,0
+10156,No,Active,2015-01-05,,105700,IT/IS,Database Administrator,5
+10036,No,Active,2014-07-07,,63322,Production       ,Production Technician II,0
+10138,Yes,Voluntarily Terminated,2011-01-10,2016-04-01,61154,Production       ,Production Technician I,0
+10244,Yes,Voluntarily Terminated,2011-11-07,2014-04-24,68999,Sales,Sales Manager,0
+10192,No,Active,2013-09-30,,50482,Production       ,Production Technician I,0
+10231,No,Active,2013-08-19,,65310,Sales,Area Sales Manager,0
+10089,No,Active,2012-07-02,,250000,Executive Office,President & CEO,0
+10166,Yes,Voluntarily Terminated,2011-09-26,2015-06-04,54005,Production       ,Production Technician I,0
+10170,Yes,Voluntarily Terminated,2011-09-26,2014-01-09,45433,Production       ,Production Technician I,0
+10208,No,Active,2014-02-17,,46654,Production       ,Production Technician I,0
+10176,No,Active,2011-01-10,,63973,Production       ,Production Technician I,0
+10165,No,Active,2011-03-07,,71339,Sales,Area Sales Manager,0
+10113,No,Active,2014-11-10,,93206,IT/IS,Sr. Network Engineer,6
+10092,Yes,Terminated for Cause,2011-01-10,2015-12-12,82758,Production       ,Production Manager,0
+10106,Yes,Voluntarily Terminated,2013-01-07,2014-03-31,66074,Production       ,Production Technician II,0
+10052,No,Active,2012-07-09,,46120,Production       ,Production Technician I,0
+10038,No,Active,2014-01-06,,64520,Admin Offices,Accountant I,4
+10249,Yes,Voluntarily Terminated,2012-04-02,2013-04-15,61962,Production       ,Production Technician II,0
+10232,No,Active,2016-10-02,,81584,IT/IS,Senior BI Developer,7
+10087,Yes,Voluntarily Terminated,2011-09-26,2018-08-19,63676,Production       ,Production Technician I,0
+10134,No,Active,2016-01-05,,93046,Admin Offices,Shared Services Manager,0
+10251,No,Active,2012-05-14,,64738,Production       ,Production Technician I,0
+10103,No,Active,2012-04-30,,70468,Sales,Area Sales Manager,0
+10017,No,Active,2013-09-30,,77915,Production       ,Production Manager,0
+10186,Yes,Voluntarily Terminated,2011-07-05,2018-09-26,52624,Production       ,Production Technician I,0
+10137,No,Active,2013-07-08,,63450,Production       ,Production Technician II,0
+10008,No,Active,2011-01-21,,51777,IT/IS,IT Support,5
+10096,Yes,Voluntarily Terminated,2013-07-08,2016-09-15,67237,Production       ,Production Technician II,0
+10035,No,Active,2013-08-19,,73330,Production       ,Production Technician II,0
+10057,No,Active,2015-02-16,,52057,Production       ,Production Technician I,0
+10004,Yes,Voluntarily Terminated,2011-11-07,2015-11-14,47434,Production       ,Production Technician I,0
+10191,Yes,Voluntarily Terminated,2012-09-24,2017-09-26,52788,Production       ,Production Technician I,0
+10219,No,Active,2014-01-06,,45395,Production       ,Production Technician I,0
+10077,No,Active,2016-05-11,,62385,Production       ,Production Technician II,0
+10073,Yes,Voluntarily Terminated,2011-07-05,2012-08-19,68407,Production       ,Production Technician II,0
+10279,No,Active,2013-11-11,,61349,Production       ,Production Technician I,0
+10110,No,Active,2013-11-11,,105688,Software Engineering,Software Engineer,4
+10053,No,Active,2011-05-31,,54132,Production       ,Production Technician I,0
+10076,No,Active,2015-03-30,,55315,Production       ,Production Technician II,0
+10145,No,Active,2013-01-07,,62810,Production       ,Production Technician I,0
+10202,No,Active,2016-07-06,,63291,Sales,Area Sales Manager,0
+10128,Yes,Voluntarily Terminated,2012-04-02,2016-11-11,62659,Production       ,Production Technician I,0
+10068,No,Active,2015-03-30,,55688,Production       ,Production Technician I,0
+10116,No,Active,2012-08-16,,83667,Production       ,Production Manager,0
+10298,Yes,Voluntarily Terminated,2011-08-15,2014-09-04,55800,Production       ,Production Technician II,0
+10213,No,Active,2011-11-07,,58207,Production       ,Production Technician II,0
+10288,No,Active,2012-02-15,,157000,IT/IS,IT Manager - Infra,6
+10025,No,Active,2013-05-13,,72460,Production       ,Production Technician II,0
+10223,No,Active,2012-01-09,,72106,Production       ,Production Technician II,0
+10151,No,Active,2015-02-16,,52599,IT/IS,Network Engineer,6
+10254,No,Active,2013-04-01,,63430,Production       ,Production Technician I,0
+10120,No,Active,2013-05-13,,74417,Production       ,Production Technician II,0
+10216,No,Active,2013-07-08,,57575,Production       ,Production Technician I,0
+10079,No,Active,2017-02-10,,87921,IT/IS,Senior BI Developer,6
+10215,Yes,Voluntarily Terminated,2011-09-26,2014-04-04,50470,Production       ,Production Technician I,0
+10185,Yes,Voluntarily Terminated,2013-04-01,2016-05-25,46664,Production       ,Production Technician I,0
+10063,No,Active,2014-05-12,,48495,Production       ,Production Technician I,0
+10037,No,Active,2013-04-01,,52984,Production       ,Production Technician I,0
+10042,No,Active,2013-07-08,,63695,Sales,Area Sales Manager,0
+10206,No,Active,2013-07-08,,62061,Production       ,Production Technician I,0
+10104,No,Active,2014-11-10,,66738,Production       ,Production Technician II,0
+10303,Yes,Terminated for Cause,2014-03-31,2018-05-01,52674,Production       ,Production Technician I,0
+10078,Yes,Voluntarily Terminated,2012-05-14,2013-08-19,71966,Production       ,Production Technician II,0
+10121,No,Active,2013-09-30,,63051,Sales,Area Sales Manager,0
+10021,No,Active,2013-09-30,,47414,Production       ,Production Technician I,0
+10281,No,Active,2014-02-17,,53060,Production       ,Production Technician I,0
+10041,No,Active,2015-01-05,,68829,Sales,Area Sales Manager,0
+10148,Yes,Voluntarily Terminated,2011-02-07,2014-01-12,63515,Production       ,Production Technician I,0
+10005,Yes,Voluntarily Terminated,2011-11-07,2015-09-07,108987,Software Engineering,Software Engineer,3
+10259,Yes,Voluntarily Terminated,2014-12-01,2016-05-01,93093,IT/IS,Data Analyst,5
+10286,Yes,Voluntarily Terminated,2011-01-10,2017-12-28,53564,Production       ,Production Technician I,0
+10297,Yes,Voluntarily Terminated,2011-07-05,2015-09-15,60270,Production       ,Production Technician II,0
+10171,Yes,Voluntarily Terminated,2011-05-16,2015-10-25,45998,Production       ,Production Technician I,0
+10032,Yes,Voluntarily Terminated,2011-05-16,2013-02-04,57954,Production       ,Production Technician II,0
+10130,Yes,Voluntarily Terminated,2010-10-25,2016-05-18,74669,Production       ,Production Manager,0
+10217,No,Active,2012-04-02,,74226,Production       ,Production Technician II,0
+10016,No,Active,2014-11-10,,93554,IT/IS,Data Analyst,7
+10050,Yes,Voluntarily Terminated,2011-07-05,2012-11-30,64724,Production       ,Production Technician I,0
+10164,No,Active,2007-11-05,,47001,Production       ,Production Technician I,0
+10124,No,Active,2012-01-09,,61844,Sales,Area Sales Manager,0
+10187,Yes,Voluntarily Terminated,2011-05-16,2018-06-04,46799,Production       ,Production Technician I,0
+10225,No,Active,2014-01-06,,59472,Production       ,Production Technician I,0
+10262,Yes,Voluntarily Terminated,2012-09-24,2013-06-18,46430,Production       ,Production Technician I,0
+10131,Yes,Voluntarily Terminated,2011-02-21,2015-08-15,83363,Software Engineering,Software Engineer,0
+10239,No,Active,2016-10-02,,95920,IT/IS,BI Developer,6
+10152,Yes,Voluntarily Terminated,2011-09-26,2018-04-07,61729,Production       ,Production Technician I,0
+10140,No,Active,2014-05-12,,61809,Sales,Area Sales Manager,0
+10058,Yes,Voluntarily Terminated,2011-05-16,2016-01-15,45115,Production       ,Production Technician I,0
+10011,No,Active,2011-11-28,,46738,Production       ,Production Technician I,0
+10230,Yes,Voluntarily Terminated,2011-09-26,2011-10-22,64971,Production       ,Production Technician II,0
+10224,Yes,Voluntarily Terminated,2011-07-05,2012-02-08,55578,Production       ,Production Technician II,0
+10047,Yes,Voluntarily Terminated,2011-01-10,2016-01-26,50428,Production       ,Production Technician I,0
+10285,Yes,Terminated for Cause,2011-01-10,2016-05-17,61422,Production       ,Production Technician I,0
+10020,No,Active,2013-07-08,,63353,Production       ,Production Technician I,0
+10162,No,Active,2015-02-16,,89883,IT/IS,Data Analyst,6
+10149,Yes,Voluntarily Terminated,2015-01-05,2018-11-10,120000,IT/IS,Principal Data Architect,7
+10086,No,Active,2017-01-07,,150290,IT/IS,Data Architect,5
+10054,No,Active,2014-01-06,,60627,Production       ,Production Technician I,0
+10065,Yes,Voluntarily Terminated,2011-04-04,2018-08-13,53180,Production       ,Production Technician I,0
+10198,No,Active,2013-01-20,,140920,IT/IS,IT Manager - DB,7
+10222,Yes,Voluntarily Terminated,2012-01-09,2015-11-04,148999,IT/IS,IT Manager - DB,6
+10126,No,Active,2012-11-05,,86214,Software Engineering,Software Engineer,6
+10295,No,Active,2016-07-04,,47750,Production       ,Production Technician I,0
+10260,Yes,Voluntarily Terminated,2009-01-05,2018-07-30,46428,Production       ,Production Technician I,0
+10233,No,Active,2010-08-30,,57975,Production       ,Production Technician II,0
+10229,Yes,Voluntarily Terminated,2015-01-05,2015-10-31,88527,IT/IS,Data Analyst ,5
+10169,No,Active,2014-09-29,,56147,Production       ,Production Technician I,0
+10071,No,Active,2013-09-30,,50923,Production       ,Production Technician I,0
+10179,No,Active,2014-09-30,,50750,IT/IS,Network Engineer,6
+10091,No,Active,2013-08-19,,52087,Production       ,Production Technician I,0
+10178,No,Active,2015-01-05,,87826,IT/IS,Data Analyst,7
+10039,No,Active,2015-05-01,,51920,Admin Offices,Administrative Assistant,5
+10095,Yes,Voluntarily Terminated,2009-10-26,2015-04-08,63878,Production       ,Production Technician II,0
+10027,No,Active,2014-09-29,,60656,Production       ,Production Technician II,0
+10291,No,Active,2014-05-18,,72992,Sales,Sales Manager,0
+10153,Yes,Voluntarily Terminated,2011-09-26,2013-09-25,55000,Admin Offices,Administrative Assistant,4
+10157,No,Active,2013-11-11,,58939,Production       ,Production Technician I,0
+10119,No,Active,2011-06-10,,66593,IT/IS,IT Support,5
+10180,No,Active,2016-06-30,,87565,IT/IS,Sr. Network Engineer,5
+10302,No,Active,2012-02-20,,64021,Production       ,Production Technician I,1
+10090,No,Active,2012-10-02,,65714,Production       ,Production Manager,0
+10030,Yes,Voluntarily Terminated,2013-05-13,2015-06-29,62425,Production       ,Production Technician I,0
+10278,No,Active,2011-01-10,,47961,Production       ,Production Technician I,0
+10307,No,Active,2014-05-12,,58273,Sales,Area Sales Manager,0
+10147,No,Active,2014-09-29,,63003,Admin Offices,Accountant I,5
+10266,No,Active,2014-02-17,,61355,Production       ,Production Technician I,0
+10241,No,Active,2010-09-27,,60120,Sales,Area Sales Manager,0
+10158,No,Active,2009-01-08,,63682,Production       ,Production Manager,0
+10117,No,Active,2015-01-05,,63025,Production       ,Production Technician I,0
+10209,No,Active,2012-05-14,,59238,Production       ,Production Technician I,0
+10024,No,Active,2014-07-07,,92989,Software Engineering,Software Engineer,5
+10173,No,Active,2017-04-20,,90100,IT/IS,BI Developer,6
+10221,Yes,Voluntarily Terminated,2009-04-27,2013-04-01,60754,Production       ,Production Technician I,0
+10146,Yes,Voluntarily Terminated,2011-05-16,2017-07-08,72202,Production       ,Production Technician II,0
+10161,No,Active,2014-09-29,,58370,Sales,Area Sales Manager,0
+10141,Yes,Voluntarily Terminated,2011-07-05,2016-09-05,48413,Production       ,Production Technician I,0
+10268,Yes,Voluntarily Terminated,2007-06-25,2010-08-30,67176,Production       ,Production Technician II,0
+10123,No,Active,2013-02-18,,56339,Production       ,Production Technician I,0
+10013,No,Active,2006-01-09,,64397,Sales,Area Sales Manager,0
+10287,No,Active,2014-02-17,,63025,Production       ,Production Technician I,0
+10044,Yes,Voluntarily Terminated,2015-01-05,2016-02-12,75281,IT/IS,Network Engineer,5
+10102,Yes,Voluntarily Terminated,2013-02-18,2018-04-15,100416,Software Engineering,Software Engineer,4
+10270,Yes,Voluntarily Terminated,2011-01-10,2014-07-02,74813,Production       ,Production Technician II,0
+10045,No,Active,2015-03-30,,76029,IT/IS,Network Engineer,7
+10205,No,Active,2011-07-05,,57859,Sales,Area Sales Manager,0
+10014,Yes,Voluntarily Terminated,2012-08-13,2016-02-05,58523,Production       ,Production Technician I,0
+10144,No,Active,2011-08-01,,88976,Production       ,Production Manager,0
+10253,No,Active,2012-03-05,,55875,Sales,Area Sales Manager,0
+10118,Yes,Terminated for Cause,2015-02-16,2017-02-22,113999,IT/IS,Database Administrator,7
+10022,Yes,Terminated for Cause,2011-09-26,2016-02-08,49773,Production       ,Production Technician I,0
+10183,No,Active,2015-07-05,,62068,Production       ,Production Technician I,0
+10190,No,Active,2014-08-18,,66541,Production       ,Production Technician II,0
+10274,Yes,Voluntarily Terminated,2011-09-26,2012-01-02,80512,Production       ,Production Manager,0
+10293,Yes,Voluntarily Terminated,2012-08-13,2015-09-01,50274,Production       ,Production Technician I,0
+10172,No,Active,2017-02-15,,84903,IT/IS,Senior BI Developer,7
+10127,No,Active,2015-03-30,,107226,IT/IS,Sr. Network Engineer,8
+10072,Yes,Voluntarily Terminated,2011-01-10,2014-05-15,58371,Production       ,Production Technician I,0
+10048,Yes,Voluntarily Terminated,2011-05-16,2015-09-07,55140,Production       ,Production Technician I,0
+10204,Yes,Voluntarily Terminated,2011-01-10,2012-05-14,58062,Production       ,Production Technician I,0
+10264,Yes,Voluntarily Terminated,2012-01-09,2015-06-27,59728,Production       ,Production Technician I,0
+10033,Yes,Voluntarily Terminated,2013-01-07,2016-02-21,70507,Production       ,Production Technician II,0
+10174,No,Active,2014-09-29,,60446,Production       ,Production Technician II,0
+10135,No,Active,2014-07-07,,65893,Production       ,Production Technician II,0
+10301,Yes,Voluntarily Terminated,2008-09-02,2015-09-29,48513,Production       ,Production Technician I,0
+10010,No,Active,2010-04-10,,220450,IT/IS,CIO,6
+10043,No,Active,2015-03-30,,89292,IT/IS,Data Analyst,5
+10271,No,Active,2014-09-29,,45046,Production       ,Production Technician I,0
