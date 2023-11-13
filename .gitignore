@@ -163,3 +163,5 @@ cython_debug/
 # IGNORE FILES
 HR_Dataset.pbix
 HR_Dataset.xlsx
+Creating_SQL_database-version2.ipynb
+Creating_tables-version2.ipynb
